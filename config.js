@@ -13,24 +13,24 @@
 // Betabotz = digunakan hampir di semua fitur kecuali linkshort
 // Botcahx  = digunakan untuk linkshort saja
 
-global.owner = ['6285711324080']  
-global.mods = ['6285711324080'] 
-global.prems = ['6285711324080']
+global.owner = ['628565251134']  
+global.mods = ['628565251134'] 
+global.prems = ['628565251134']
 global.nameowner = 'HenzzXD.'
 global.numberowner = '6285711324080' 
-global.mail = 'henzzxd01@gmail.com' 
-global.dana = '0857xxxxxx'
-global.pulsa = '0857xxxxxx'
-global.gopay = '0857xxxxx'
-global.namebot = 'AMURA MD'
-global.gc = 'https://chat.whatsapp.com/C4OGXvdgseAAS8KM6uyXnO'
-global.web = 'https://github.com/henzz4368'
-global.instagram = 'https://instagram.com/henzz4368'
-global.wm = 'Amura md'
+global.mail = '-' 
+global.dana = '628565251134'
+global.pulsa = '628565251134'
+global.gopay = '628565251134'
+global.namebot = '•⊰❂ OMR28-BOT ❂⊱•'
+global.gc = '-'
+global.web = '-'
+global.instagram = 'https://instagram.com/ohmyriiss28'
+global.wm = '•⊰❂ OMR28-BOT ❂⊱•'
 global.watermark = wm
-global.wm2 = '⫹⫺ Amura bot'
-global.wm3 = '© Anura'
-global.wm4 = 'made by Amura md'
+global.wm2 = '•⊰❂ OMR28-BOT ❂⊱•'
+global.wm3 = '•⊰❂ OMR28-BOT ❂⊱•'
+global.wm4 = 'made by •⊰❂ OMR28-BOT ❂⊱•'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
@@ -40,7 +40,7 @@ global.packname = 'Made with'
 global.author = 'Bot WhatsApp'
 
 //---- image thumbnail 
-global.thumb = 'https://telegra.ph/file/1b8fb41b5d5bf2849b467.jpg'
+global.thumb = 'https://telegra.ph/file/c6b18ab4ab83b8ec03a2f.jpg'
 
 //===> Apikey
 global.lann = 'RcPKwDnv' //isi apikey mu https://api.betabotz.org
